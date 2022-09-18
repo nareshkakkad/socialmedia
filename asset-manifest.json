@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/shopdemo/static/js/main.6e8e017a.js",
-    "index.html": "/shopdemo/index.html",
-    "main.6e8e017a.js.map": "/shopdemo/static/js/main.6e8e017a.js.map"
+    "main.js": "/socialmedia/static/js/main.6e8e017a.js",
+    "index.html": "/socialmedia/index.html",
+    "main.6e8e017a.js.map": "/socialmedia/static/js/main.6e8e017a.js.map"
   },
   "entrypoints": [
     "static/js/main.6e8e017a.js"
